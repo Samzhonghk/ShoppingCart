@@ -1,0 +1,10 @@
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
